@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Data & Models
+*.csv
+*.pkl
+*.joblib
+
+# Output
+submissions/
+output/
+
+# VS Code
+.vscode/
