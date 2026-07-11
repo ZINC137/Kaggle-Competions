@@ -13,7 +13,6 @@ venv/
 .DS_Store
 
 # Data & Models
-*.csv
 *.pkl
 *.joblib
 
